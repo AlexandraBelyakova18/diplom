@@ -1,0 +1,16 @@
+2025-04-06T21:54:14.7035039+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-04-06T21:54:14.7055028+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-04-06T21:54:14.7055028+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-04-06T21:54:14.7055028+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 21:54:14.560
+2025-04-06T21:54:14.7085039+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 17224
+2025-04-06T21:54:14.7105023+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: X64 - .NET Framework 4.8.9181.0
+2025-04-06T21:54:14.7105023+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll
+2025-04-06T21:54:14.7105023+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: False
+2025-04-06T21:54:14.7115027+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\PC\Desktop\OnlineLearningSystem.Tests\bin\Debug\net472\OnlineLearningSystem.Tests.exe
+2025-04-06T21:54:14.7115027+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\PC\Desktop\OnlineLearningSystem.Tests\bin\Debug\net472\Log --results-directory C:\Users\PC\Desktop\OnlineLearningSystem\TestResults --client-port 50760'
+2025-04-06T21:54:14.7125014+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-04-06T21:54:15.0205061+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-04-06T21:54:15.0520502+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\PC\Desktop\OnlineLearningSystem.Tests\bin\Debug\net472\OnlineLearningSystem.Tests.testconfig.json' not found.
+2025-04-06T21:54:15.0640565+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-04-06T21:54:16.4166989+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-04-06T21:54:17.1914318+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter WARNING Атрибут Runsettings "MaxCpuCount" не поддерживается в Microsoft.Testing.Platform и будет пропущен
