@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\diplom\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}|..\\OnlineLearningSystem\\OnlineLearningSystem.csproj|c:\\users\\pc\\desktop\\onlinelearningsystem\\forms\\materialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}|..\\OnlineLearningSystem\\OnlineLearningSystem.csproj|c:\\users\\pc\\desktop\\onlinelearningsystem\\forms\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}|..\\OnlineLearningSystem\\OnlineLearningSystem.csproj|c:\\users\\pc\\desktop\\onlinelearningsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}|..\\OnlineLearningSystem\\OnlineLearningSystem.csproj|c:\\users\\pc\\desktop\\onlinelearningsystem\\forms\\coursedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,6 +35,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MaterialForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\MaterialForm.cs",
+              "RelativeDocumentMoniker": "..\\OnlineLearningSystem\\Forms\\MaterialForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\MaterialForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\OnlineLearningSystem\\Forms\\MaterialForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:03:49.923Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "..\\OnlineLearningSystem\\Forms\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\MainMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\OnlineLearningSystem\\Forms\\MainMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:03:48.829Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\OnlineLearningSystem\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\OnlineLearningSystem\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:03:47.938Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CourseDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem\\Forms\\CourseDetailsForm.cs",
               "RelativeDocumentMoniker": "..\\OnlineLearningSystem\\Forms\\CourseDetailsForm.cs",
