@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GG4Jlsc8Pc=",
+  "dgSpecHash": "Mb2clGhZ+hk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\OnlineLearningSystem.Tests\\OnlineLearningSystem.Tests.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\diplom\\OnlineLearningSystem.Tests\\OnlineLearningSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

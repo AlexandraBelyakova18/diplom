@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineLearningSystem", "..\OnlineLearningSystem\OnlineLearningSystem.csproj", "{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineLearningSystem.Tests", "..\OnlineLearningSystem.Tests\OnlineLearningSystem.Tests.csproj", "{6031DAF7-56C9-441F-8D9D-E145575C7460}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineLearningSystem.Tests", "OnlineLearningSystem.Tests\OnlineLearningSystem.Tests.csproj", "{F27DFA1B-F64F-4C06-9D37-49BD14BD8B04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C95E47D-DC3E-4F7F-B6DC-F565AB150D1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6031DAF7-56C9-441F-8D9D-E145575C7460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6031DAF7-56C9-441F-8D9D-E145575C7460}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6031DAF7-56C9-441F-8D9D-E145575C7460}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6031DAF7-56C9-441F-8D9D-E145575C7460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27DFA1B-F64F-4C06-9D37-49BD14BD8B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27DFA1B-F64F-4C06-9D37-49BD14BD8B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27DFA1B-F64F-4C06-9D37-49BD14BD8B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27DFA1B-F64F-4C06-9D37-49BD14BD8B04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
